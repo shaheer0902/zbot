@@ -1,9 +1,3 @@
-# Zombi Bot v12
-# If u have problem in BOT
-# Contact me ?
-# Email : nedjworgan@gmail.com
-# ICQ: 744289868
-# My Facebook Page: https://www.facebook.com/viper1337official/
 
 Install Xammp for run Other Tools :)
 Install Python 3.0 for run Checker Valid Apple
